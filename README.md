@@ -5,8 +5,13 @@ A curated list of awesome crypto, distributed algorithms, protocols, blockchains
 # Contents
 * [Crosschains](#crosschains)
 * [Zero knowledge](#zero-knowledge)
-
+* [Liquidity](#Liquidity)
+* [Tokenomics](#Tokenomics)
 
 # Crosschains
+
 # Zero knowledge
 
+# Liquidity
+
+# Tokenomics
