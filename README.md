@@ -9,9 +9,16 @@ A curated list of awesome crypto, distributed algorithms, protocols, blockchains
 * [Tokenomics](#Tokenomics)
 
 # Crosschains
+Challenge: make it live  
+[atomic swap](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)  
 
 # Zero knowledge
+Challenge: new usecases  
+[zkSNARKs](https://z.cash/technology/zksnarks.html) 
+[zkSTARKs](http://vitalik.ca/general/2017/11/09/starks_part_1.html)  
 
 # Liquidity
+Challenge: make crypto liquid  
 
 # Tokenomics
+Challenge: make it live and efficient  
