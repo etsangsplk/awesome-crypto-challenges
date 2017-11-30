@@ -3,7 +3,7 @@
 A curated list of awesome crypto, distributed algorithms, protocols, blockchains, cryptocurrencies, fintech challenges & resources (work in progress).  
 
 # Contents
-* [Crosschain transactions](#crosschain transactions)
+* [Crosschain transactions](#crosschain-transactions)
 * [Zero knowledge](#zero-knowledge)
 * [Liquidity](#liquidity)
 * [Tokenomics](#tokenomics)
