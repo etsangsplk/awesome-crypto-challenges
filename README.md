@@ -3,13 +3,13 @@
 A curated list of awesome crypto, distributed algorithms, protocols, blockchains, cryptocurrencies, fintech challenges & resources (work in progress).  
 
 # Contents
-* [Crosschains](#crosschains)
+* [Crosschain transactions](#crosschain transactions)
 * [Zero knowledge](#zero-knowledge)
-* [Liquidity](#Liquidity)
-* [Tokenomics](#Tokenomics)
+* [Liquidity](#liquidity)
+* [Tokenomics](#tokenomics)
 * [Decentralized trading](#decentralized-trading)
 
-# Crosschains
+# Crosschain transactions
 Challenge: make it live  
 [atomic swap](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)  
 
