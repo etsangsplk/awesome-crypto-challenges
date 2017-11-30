@@ -7,6 +7,7 @@ A curated list of awesome crypto, distributed algorithms, protocols, blockchains
 * [Zero knowledge](#zero-knowledge)
 * [Liquidity](#Liquidity)
 * [Tokenomics](#Tokenomics)
+* [Decentralized trading](#decentralized-trading)
 
 # Crosschains
 Challenge: make it live  
@@ -22,3 +23,7 @@ Challenge: make crypto liquid
 
 # Tokenomics
 Challenge: make it live and efficient  
+
+# Decentralized trading
+Challenge: make it live and efficient
+(https://hmstr.io/)
