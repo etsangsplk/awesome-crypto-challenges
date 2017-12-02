@@ -3,28 +3,31 @@
 A curated list of awesome crypto, distributed algorithms, protocols, blockchains, cryptocurrencies, fintech challenges & resources (work in progress).  
 
 # Contents
+* [Lightning](#lightning)
 * [Crosschain transactions](#crosschain-transactions)
 * [Zero knowledge](#zero-knowledge)
 * [Liquidity](#liquidity)
 * [Tokenomics](#tokenomics)
 * [Decentralized trading](#decentralized-trading)
 
+# Lightning
+[Lightningnetwork](https://github.com/lightningnetwork)  
+[Raiden](https://github.com/raiden-network) 
+[Microraiden](https://github.com/raiden-network/microraiden) 
+[Microraiden deployed](https://etherscan.io/address/0x4d6e0922e6b703f0fdf92745343a9b83eb656402#code)  
+
+
 # Crosschain transactions
-Challenge: make it live  
 [atomic swap](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)  
 [what is a cross-chain protocol? (Cosmos, Polkadot, Interledger)](https://www.youtube.com/watch?v=wq1fXPLktUQ)
 
 # Zero knowledge
-Challenge: new usecases  
 [zkSNARKs](https://z.cash/technology/zksnarks.html) 
 [zkSTARKs](http://vitalik.ca/general/2017/11/09/starks_part_1.html)  
 
 # Liquidity
-Challenge: make crypto liquid  
 
 # Tokenomics
-Challenge: make it live and efficient  
 
 # Decentralized trading
-Challenge: make it live and efficient
 (https://hmstr.io/)
