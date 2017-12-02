@@ -12,6 +12,7 @@ A curated list of awesome crypto, distributed algorithms, protocols, blockchains
 # Crosschain transactions
 Challenge: make it live  
 [atomic swap](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)  
+[what is a cross-chain protocol? (Cosmos, Polkadot, Interledger)](https://www.youtube.com/watch?v=wq1fXPLktUQ)
 
 # Zero knowledge
 Challenge: new usecases  
