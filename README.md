@@ -28,6 +28,6 @@ A curated list of awesome crypto, distributed algorithms, protocols, blockchains
 # Liquidity
 
 # Tokenomics
-
+[Blockchain Summit - Crypto Valley 2017 - Keynote by William Mougayar](https://www.youtube.com/watch?v=QOnQiiZA_y4)
 # Decentralized trading
-(https://hmstr.io/)
+[hmstr](https://hmstr.io/)
