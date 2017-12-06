@@ -3,12 +3,15 @@
 A curated list of awesome crypto, distributed algorithms, protocols, blockchains, cryptocurrencies, fintech challenges & resources (work in progress).  
 
 # Contents
+* [Responsibility and security](#responsibility-and-security)
 * [Lightning](#lightning)
 * [Crosschain transactions](#crosschain-transactions)
 * [Zero knowledge](#zero-knowledge)
 * [Liquidity](#liquidity)
 * [Tokenomics](#tokenomics)
 * [Decentralized trading](#decentralized-trading)
+
+# Responsibility and security
 
 # Lightning
 [Lightningnetwork](https://github.com/lightningnetwork)  
